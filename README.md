@@ -17,11 +17,11 @@ This project provides a comprehensive sales analysis for **Vrinda General Store*
   - Pivot Tables (for aggregation)
   - Charts, Slicers & Conditional Formatting (for dashboard)
 
-## Dashboard Screenshots
+## Dashboard Screenshot
 
 ![Dashboard](./Varinda.png)
 
-## Sample Insights
+## Insights
 
 - Women are more likely to buy compared to men (**~65%**).
 - **Maharashtra, Karnataka, and Uttar Pradesh** are the top 3 contributing states.
