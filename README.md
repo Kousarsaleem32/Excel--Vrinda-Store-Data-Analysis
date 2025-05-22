@@ -23,10 +23,10 @@ This project provides a comprehensive sales analysis for **Vrinda General Store*
 
 ## Insights
 
-- Women are more likely to buy compared to men (**~65%**).
+- Women buy more compared to men (**78%**).
 - **Maharashtra, Karnataka, and Uttar Pradesh** are the top 3 contributing states.
-- Adult age group (**30–49 years**) contributes the most (**~50%**).
-- **Amazon, Flipkart, and Myntra** are the top-performing sales channels.
+- Adult age group (**30–49 years**) contributes the most (**~45%**).
+- **Amazon(**~40%**), Flipkart(**~26%**), and Myntra(**~22%**)** are the top-performing sales channels.
 
 ## Final Recommendation
 
