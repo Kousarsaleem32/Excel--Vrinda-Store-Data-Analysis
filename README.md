@@ -10,6 +10,17 @@ This project provides a comprehensive sales analysis for **Vrinda General Store*
   - Product and channel-wise performance
 - Built an interactive Excel dashboard to support decision-making.
 
+## Tools Used
+
+- **Microsoft Excel**
+  - Power Query (for cleaning)
+  - Pivot Tables (for aggregation)
+  - Charts, Slicers & Conditional Formatting (for dashboard)
+
+## Dashboard Screenshots
+
+![Dashboard](./Varinda.png)
+
 ## Sample Insights
 
 - Women are more likely to buy compared to men (**~65%**).
@@ -22,12 +33,6 @@ This project provides a comprehensive sales analysis for **Vrinda General Store*
 **Target women** aged **30–49 years** from **Maharashtra, Karnataka, and Uttar Pradesh**  
 Promote via ads, offers, or coupons on **Amazon, Flipkart, and Myntra** to boost sales.
 
-## Tools Used
-
-- **Microsoft Excel**
-  - Power Query (for cleaning)
-  - Pivot Tables (for aggregation)
-  - Charts, Slicers & Conditional Formatting (for dashboard)
 
 ## How to Run
 
